@@ -17,7 +17,7 @@ Inspired by the success of Moneyball in baseball, this project applies similar m
   - Standardized player names for merging datasets.
   - Manually (but reluctantly) aligned team abbreviations to ensure consistency.
 
-For more details, see the [Full Writeup](placeholder.pdf) or the [Video Presentation](https://drive.google.com/file/d/1nB1JWZnG_M88Bu10kq3dJKX13S0jRvkr/view?usp=sharing)!
+For more details, see the [Full Writeup](Presentation%20Writeup.pdf) or the [Video Presentation](https://drive.google.com/file/d/1nB1JWZnG_M88Bu10kq3dJKX13S0jRvkr/view?usp=sharing)!
 
 ## **Tools Used**
 - **Google Sheets**: Initial data collection, cleaning, and preprocessing.
@@ -36,7 +36,7 @@ For more details, see the [Full Writeup](placeholder.pdf) or the [Video Presenta
   - **Wide Receivers**: Amon-Ra St. Brown, Puka Nacua.
 - **Salary Disparities**: Highlighted inefficiencies in spending, such as high salaries with low contributions.
 - **Versatility Insights**: While versatility was less prominent than expected, the heatmap revealed both versatile players (Justin Fields, LaMarvelous (MV3?) Jackson) and highly specialized players (Stefon Diggs).
-  - **Note**: As mentioned in the video presentation, the Versatility Heatmap produced unexpected results. There is a theoretical discussion about why/how this happened, and if this was a consequence of the analysis or the nature of the NFL. That can be found in the [writeup](docs/placeholder.pdf) if you're interested! 
+  - **Note**: As mentioned in the video presentation, the Versatility Heatmap produced unexpected results. There is a theoretical discussion about why/how this happened, and if this was a consequence of the analysis or the nature of the NFL. That can be found in the [writeup](Presentation%20Writeup.pdf) if you're interested! 
 
 ## **Challenges and Lessons Learned**
 - **Data Limitations**: Salary data was incomplete for about 25% of players, impacting some analyses.
@@ -45,6 +45,6 @@ For more details, see the [Full Writeup](placeholder.pdf) or the [Video Presenta
 
 ## **Explore the Project**
 - For a demonstration/explanation of the interactive visualizations, check out the [Video Presentation](https://drive.google.com/file/d/1nB1JWZnG_M88Bu10kq3dJKX13S0jRvkr/view?usp=sharing)!
-- For more technical detail and discussion, the [Final Writeup](placeholder.pdf) is what you're looking for. 
+- For more technical detail and discussion, the [Final Writeup](Presentation%20Writeup.pdf) is what you're looking for. 
 - If you'd like to do your own analysis, the [Interactive Tableau Dashboard](placeholder) will be available as soon as I figure out how to make it worth your while. At the time of writing, uploading the data and visualizations to a public Tableau server is limiting functionality. 
 
